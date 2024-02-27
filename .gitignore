@@ -9,3 +9,7 @@ cdk.out
 
 # GTS
 !.prettierrc.js
+
+# jest
+test/lcov-report
+test/lcov.info
