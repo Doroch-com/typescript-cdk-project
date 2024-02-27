@@ -30,3 +30,4 @@ cdk bootstrap aws://ACCOUNT-NUMBER/REGION
 - [Configure SonarCloud Git Action](https://github.com/SonarSource/sonarcloud-github-action)
 - [Install Google Typescript Styleguide](https://www.npmjs.com/package/gts)
 - [Configure Jest](https://archive.jestjs.io/docs/en/configuration#coverageprovider-string)
+- [Import Test Coverage in Sonar](https://docs.sonarsource.com/sonarqube/9.8/analyzing-source-code/test-coverage/javascript-typescript-test-coverage/)
