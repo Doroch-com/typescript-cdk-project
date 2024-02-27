@@ -30,10 +30,11 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: lcov.info
-          path: lcov.info
+          path: test/lcov.info
   sonarcloud:
     name: SonarCloud
     needs: jest
+    if: always()
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
