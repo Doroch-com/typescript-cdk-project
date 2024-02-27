@@ -1,4 +1,5 @@
 # typescript-cdk-project
+[![Code Style: Google](https://img.shields.io/badge/code%20style-google-blueviolet.svg)](https://github.com/google/gts)
 
 # Welcome to your CDK TypeScript project
 
@@ -24,3 +25,5 @@ cdk bootstrap aws://ACCOUNT-NUMBER/REGION
 * [Install AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/work-with-cdk-typescript.html)
 * [Install AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 * [Configure SonarCloud](https://docs.sonarsource.com/sonarqube/latest/analyzing-source-code/analysis-parameters/)
+* [Configure SonarCloud Git Action](https://github.com/SonarSource/sonarcloud-github-action)
+* [Install Google Typescript Styleguide](https://www.npmjs.com/package/gts)
