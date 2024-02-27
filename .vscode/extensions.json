@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "amazonwebservices.aws-toolkit-vscode",
+        "SonarSource.sonarlint-vscode",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "EditorConfig.EditorConfig",
+        "github.vscode-github-actions"
+    ]
+}
